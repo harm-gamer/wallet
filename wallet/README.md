@@ -12,4 +12,5 @@ for contributing run command
  -> npm install
  (optional) npm i vite-plugin-node-polyfills
  -> npm run dev
- 
+
+ // happy coding
